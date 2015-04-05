@@ -20,7 +20,7 @@ document.body.appenChild(greetDiv);
 
 // it's curried out of the box, you could also do:
 
-elem('div', 'div's content');
+elem('div', 'div\'s content');
 
 ```
 
